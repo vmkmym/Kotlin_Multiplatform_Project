@@ -1,0 +1,1 @@
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhttps%3A%2F%2Fgithub.com%2Fvmkmym%2FKotlin_Multiplatform_Project%2Fhit-counter&count_bg=%23262824&title_bg=%23FF6011&icon=swift.svg&icon_color=%23FFFFFF&title=Multiplatform+Learning+Repository&edge_flat=true)](https://hits.seeyoufarm.com)
